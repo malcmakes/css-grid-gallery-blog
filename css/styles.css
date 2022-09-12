@@ -1,3 +1,14 @@
+html {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 18px;
+    width: 80%;
+    margin: auto;
+
+}
+
+.head-title {
+    text-align: center;
+}
 
 button {
     display: flex;
